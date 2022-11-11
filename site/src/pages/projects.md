@@ -1,6 +1,6 @@
 ---
 layout: projects.njk
-title: Projects
+title: My Projects
 date: 2021-01-01
 permalink: /projects/index.html
 metaDescription: A sample Projects page
