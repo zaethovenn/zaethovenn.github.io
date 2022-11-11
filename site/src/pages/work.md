@@ -1,7 +1,6 @@
 ---
-title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+title: My Work history
+subtitle: I started my work history at the age of 16
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +9,41 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Smokey's Waikiki
 
-**Senior Software Engineer** *(2019 - Current)*
+**Store supervisor** *(May 2022- current)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Responsibilities I upheld; Managing the operations of everyday actions, counting and keeping stock orders up to date, Open and closing of the register with a daily float dropped into safe, trusted with thousands of dollars every shift in customer transactions, hundreds of customer interactions, general upkeep of the store, security on all items and store grounds.
 
-#### Microsoft
 
-**Software Engineer** *(2014 - 2019)*
+#### Ross inc.
 
-* Maintained legacy Internet Explorer for 5 long years
+**Sales associate** *(June 2021 - August 2021)*
+
+* I was tasked at stocking the floor, cleaning the aisles, dealing with customers, working the register, and working security for the building.
+
+#### Finish Line LLC
+
+**Sales associate/Stocker** *(July 2019-August 2019)*
+
+* Stocking the shelves and dealing with everyday customers. End of shift I counted the cash and closed the register and made the shift deposit into a safe.
+
+#### Two scoops Ice cream parlor
+
+**Shift lead/Sales associate** *(Feb 2018 - December 2020)*
+
+* I was trained in greeting,  dealing, and serving customers. I was also the shift lead/manager of the workers during those shifts. I dealt with counting the cash float in the register and assigning others to tasks dealing with the store. I also locked the store at the end of the night. 
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### Allegheny College 
 
-**PhD Astronomy** *(2014 - 2015)*
+**Comp sci major, Econ minor** *(August 2019 - present (projected may 2024))*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+#### Kapolei HS
+
+**LCAT - engineering** *(August 2015 - May 2019)*
+
+* Magna cum laude, 3.88 gpa, honor cord, and blood cord (Donating)
