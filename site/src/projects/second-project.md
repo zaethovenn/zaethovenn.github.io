@@ -1,18 +1,16 @@
 ---
-title: Another NPM Package
-emoji: 💾
+title: Calculator in C
+emoji: 
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
 summary: This is an NPM package I made
 tags:
   - javascript
-  - node
+  - report writing
 ---
 
-### Task
+### project breakdown
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+On this project our group decided to create a lowlevel C program and what we decided on was a Calculator with simple functions such as addition, subtraction, multiplication, division, exponents, and log funtion.
 
-### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
