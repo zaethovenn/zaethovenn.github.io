@@ -5,7 +5,7 @@ metaDescription: This is a sample meta description. If one is not present in you
 date: 2019-01-01T00:00:00.000Z
 summary: Simple C Calculator
 tags:
-  - javascript
+  - C Language
   - report writing
 ---
 
