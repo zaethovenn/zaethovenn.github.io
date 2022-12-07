@@ -45,6 +45,7 @@ This project should result in a GitHub repository from which to deploy your site
 * A brief description of your site build process (including challenges and solutions)
 * A summary of the audiences for which the site is built and how its overall form and content cater to their interests
 * How your design decisions are informed by the various professional documents you've completed this semester
+* trying to fix
 
 #### Using `11ty`
 
